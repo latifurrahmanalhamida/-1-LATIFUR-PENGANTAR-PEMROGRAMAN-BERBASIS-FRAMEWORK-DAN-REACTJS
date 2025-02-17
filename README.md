@@ -63,14 +63,14 @@ jawaban <br>
 berhasil Anda lakukan!<br>
 jawaban:<br>
 Proses create project : <br>
-![Screenshot (83)](https://github.com/user-attachments/assets/519fbfd2-82d8-4232-92eb-1c2e4e3c6b79)
+
+![Screenshot (83)](https://github.com/user-attachments/assets/a63e6c00-92f9-47c2-a284-210090456739)
 <br>
 Running :<br>
-![image](https://github.com/user-attachments/assets/ad80ec32-5f14-4a79-af38-67a36c532827)
-<br>
+![image](https://github.com/user-attachments/assets/ad80ec32-5f14-4a79-af38-67a36c532827) <br>
 Hasil Running: <br>
-![Screenshot (50)](https://github.com/user-attachments/assets/8e96a88e-c4a5-4967-acf0-eb96d6b451d1)
-<br>
+![Screenshot (50)](https://github.com/user-attachments/assets/8e96a88e-c4a5-4967-acf0-eb96d6b451d1) <br>
+
 Praktikum 3: Menambahkan Komponen React (Button)<br>
 
 
